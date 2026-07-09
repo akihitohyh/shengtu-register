@@ -91,7 +91,4 @@ python webui.py
 → [7] 创建账号 → [8] 交换 Token → 输出 access_token
 ```
 
-## 致谢
 
-- [LINUX DO](https://linux.do/) 社区
-- [chatgpt2api](https://github.com/basketikun/chatgpt2api) 注册机核心逻辑
