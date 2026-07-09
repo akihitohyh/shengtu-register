@@ -12,7 +12,7 @@ ChatGPT 账号自动注册工具 — 从 Outlook 邮箱池接验证码，完成 
 ## 安装
 
 ```bash
-git clone https://github.com/your/生图注册机.git
+git clone https://github.com/akihitohyh/shengtu-register.git
 cd 生图注册机
 python3 -m venv .venv
 source .venv/bin/activate
