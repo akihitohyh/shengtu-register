@@ -1,0 +1,26 @@
+# 敏感信息
+config.yaml
+access_tokens.txt
+
+# 数据文件
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 输出
+*.json
